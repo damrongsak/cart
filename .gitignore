@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ._*
 .htaccess
 uploads/*
@@ -5,3 +6,10 @@ database.php
 config.php
 gocart.php
 *.bak
+=======
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+>>>>>>> c5727c52b9fe97b59b6c0cf06d4976d3740c6575
