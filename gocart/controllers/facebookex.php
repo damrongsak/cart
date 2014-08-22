@@ -11,8 +11,8 @@ class FacebookEx extends CI_Controller {
     {
 
         $fb_config = array(
-            'appId'  => '415522261813290',
-            'secret' => '943716006e74d9b9283d4d5d8ab93204'
+            'appId'  => '',
+            'secret' => ''
         );
 
         $this->load->library('facebook', $fb_config);
